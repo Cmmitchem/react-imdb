@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-imdb/static/css/main.ba6d4109.css",
+    "main.js": "/react-imdb/static/js/main.01ef649d.js",
+    "static/js/787.29560358.chunk.js": "/react-imdb/static/js/787.29560358.chunk.js",
+    "index.html": "/react-imdb/index.html",
+    "main.ba6d4109.css.map": "/react-imdb/static/css/main.ba6d4109.css.map",
+    "main.01ef649d.js.map": "/react-imdb/static/js/main.01ef649d.js.map",
+    "787.29560358.chunk.js.map": "/react-imdb/static/js/787.29560358.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba6d4109.css",
+    "static/js/main.01ef649d.js"
+  ]
+}
